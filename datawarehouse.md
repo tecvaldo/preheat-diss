@@ -21,14 +21,5 @@ style: |
   }
   
 ---
-
-
-# Opções de Trabalhos
-- Dimensionamento de Carga ou 
-- [Datawarehouse Educational Data](datawarehouse.md)
-
----
-
-## Dimensionamento de Carga
-- [ ] 1. Definir um tema para o trabalho
-
+# Datawarehouse Educational Data
+Projeto financiado pela CAPEs para a criação de um Datawarehouse para dados educacionais com o fito de levantar dados relevantes para conhecer a educação brasileira.
