@@ -21,5 +21,57 @@ style: |
   }
   
 ---
-# Datawarehouse Educational Data
-Projeto financiado pela CAPEs para a criação de um Datawarehouse para dados educacionais com o fito de levantar dados relevantes para conhecer a educação brasileira.
+# Datawarehouse Educational 
+Objetivo: Criar um Datawarehouse para dados educacionais para realizar Censo da Educação Superior para Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)
+## Patrocinadores do Projeto
+INEP
+
+---
+## Dados Educacionais
+Exame Nacional de Desempenho dos Estudantes (ENADE)
+Base de Dados do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP);
+
+Pesquisa Nacional por Amostra de Domicílios Contínua (PNADc) 
+Base de Dados do Instituto Brasileiro de Geografia e Estatística (IBGE);
+
+Exame Nacional do Ensino Médio (ENEM) 
+Base de Dados do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP);
+
+---
+## Dados Educacionais
+
+Plataforma Sucupira - Coordenação de Aperfeiçoamento de Pessoal de Nível
+Superior (CAPES), Ministério da Educação (ME);
+
+Relação Anual de Informações Sociais (RAIS) 
+Base de Dados do Ministério do Trabalho (MT);
+
+Produto Interno Bruto dos Municípios (PIB Munic)
+Base de Dados do Instituto Brasileiro de Geografia e Estatística (IBGE);
+Estimativas da População
+Base do Instituto Brasileiro de Geografia e Estatística (IBGE).
+
+---
+
+## Projeto de Datawarehouse
+
+Definição de estrutura para o trabalho com dados, como parte do desenvolvimento do trabalho. 
+Planejamento para construção da estrutura em que o DW deverá ser construido. As possibilidades variam desde investimento em infraestrutura de hardware e software até uso de serviços em nuvem (preferencialmente);
+
+---
+## Projeto de Datawarehouse
+
+Expectativa de trabalhar com xx TB de dados utilizando ferramentas DW;
+
+## Envolvidos no Projeto
+- Prof. Dr. Bruno Cesar Ribas (Orientador)
+- Prof. Dr. Jevux Mateus Araújo (Co - Orientador)
+- INEP
+
+---
+## Prazos
+- 1. Definir um tema para o trabalho
+- 2. Definir um escopo para o trabalho
+- 3. Definir um cronograma para o trabalho
+- 4. Definir um orçamento para o trabalho
+- 5. Definir um plano de trabalho para o trabalho
