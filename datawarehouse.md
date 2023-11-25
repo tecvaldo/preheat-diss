@@ -23,8 +23,13 @@ style: |
 ---
 # Datawarehouse Educational 
 Objetivo: Criar um Datawarehouse para dados educacionais para realizar Censo da Educação Superior para Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)
-## Patrocinadores do Projeto
-INEP
+Identificar as necessidades específicas da área de educação que o data warehouse deve atender.
+Entender os requisitos das partes interessadas, como gestores educacionais, professores, pais e órgãos reguladores
+
+---
+# Datawarehouse Educacional
+Contexto do Trabalho
+Expectativa de prazos
 
 ---
 ## Dados Educacionais
@@ -56,16 +61,19 @@ Base do Instituto Brasileiro de Geografia e Estatística (IBGE).
 ## Projeto de Datawarehouse
 
 Definição de estrutura para o trabalho com dados, como parte do desenvolvimento do trabalho. 
-Planejamento para construção da estrutura em que o DW deverá ser construido. As possibilidades variam desde investimento em infraestrutura de hardware e software até uso de serviços em nuvem (preferencialmente);
+Estruturas tais como Data Pipeline, estruturas ETL precisaräo ser trabalhadas
+Planejamento para construção da estrutura em que o DW deverá ser construido. As possibilidades variam desde investimento em infraestrutura de hardware e software até uso de serviços em nuvem como AWS Redshift, Google Big Query, Snowflake, Tableau, etc;
 
 ---
 ## Projeto de Datawarehouse
-
+Identificar Dimensões e métricas chave para análise na área de educação tais como: xxxx  
+Utilização de ferramentas para visualização de dados para criar relatórios e dashboards 
 Expectativa de trabalhar com xx TB de dados utilizando ferramentas DW;
+
 
 ## Envolvidos no Projeto
 - Prof. Dr. Bruno Cesar Ribas (Orientador)
-- Prof. Dr. Jevux Mateus Araújo (Co - Orientador)
+- Prof. Dr. Jevuks Mateus Araújo (Co - Orientador)
 - INEP
 
 ---

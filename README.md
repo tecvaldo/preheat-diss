@@ -2,7 +2,7 @@
 marp: true
 theme: default
 size: 16:9
-header: "![w:100](https://pctec.unb.br/images/Historico/2018_Orgao_complementar_da_UnB.png) Trabalhos para Orietnação de Dissertações"
+header: "![w:100](https://pctec.unb.br/images/Historico/2018_Orgao_complementar_da_UnB.png) Trabalhos para Orietnação de Dissertaçäo"
 paginate: true
 style: |
   header {
